@@ -26,6 +26,7 @@ Our projects commonly leverage modern technologies including:
 
 ### Frontend
 - Angular
+- Svelte
 - TypeScript
 - HTML & CSS
 
@@ -37,6 +38,7 @@ Our projects commonly leverage modern technologies including:
 
 ### Data & Storage
 - SQL Databases
+- MongoDb
 - Redis
 - Cloud Storage Services
 
